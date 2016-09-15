@@ -1,0 +1,6 @@
+{
+  "clientTopology": {
+    "baseStaticUrl": "http://localhost:3200/"
+  },
+  "petriScopes": []
+}
